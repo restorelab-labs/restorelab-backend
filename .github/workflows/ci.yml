@@ -1,0 +1,21 @@
+name: RPC inventory boundaries
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: restorelab-labs/restorelab-backend
+          path: restorelab-backend
+          ref: ${{ github.sha }}
+      - uses: actions/checkout@v4
+        with:
+          repository: restorelab-labs/restorelab-planner
+          path: restorelab-planner
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: node --test restorelab-backend/test.mjs
