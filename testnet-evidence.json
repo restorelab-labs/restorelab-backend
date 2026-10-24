@@ -1,0 +1,356 @@
+{
+  "schemaVersion": 1,
+  "network": "testnet",
+  "project": "RestoreLab",
+  "protocolVersion": 29,
+  "sourceAccount": "GBWNZY4T3GCFRPSYTC7IRTSVMH6YNDDLC72O4IH7HWPV3PNXCKTHPJ62",
+  "transactions": [
+    {
+      "label": "Upload specimen executable",
+      "hash": "10fbe2b263b7187c4ff66877663a1fd5b9abcbae5e873a25b12d5bcb2d72c7dc",
+      "status": "SUCCESS",
+      "ledger": 5365231,
+      "envelopeXdr": "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",
+      "resultXdr": "AAAAACSTlUgAAAAAAAAAAQAAAAAAAAAYAAAAALG80iZWXuJ332lnJ3KiSWgh3HSYUvUu3scTj1ZL5urqAAAAAA=="
+    },
+    {
+      "label": "Deploy continuity specimen",
+      "hash": "2437f916677c191f5df8718d94c24e47a3e5bc3346a4e586765fe88d61864703",
+      "status": "SUCCESS",
+      "ledger": 5365232,
+      "envelopeXdr": "AAAAAgAAAABs3OOT2YRYvliYvojOVWH9hoxrF/TuIP89n129txKmdwBYp7QAUd3YAAAAAgAAAAEAAAAAAAAAAAAAAABq3LfHAAAAAAAAAAEAAAAAAAAAGAAAAAMAAAAAAAAAAAAAAABs3OOT2YRYvliYvojOVWH9hoxrF/TuIP89n129txKmd3o+RYL+fgKrLf+R5MYpY0zXWKLzyYuCzAZDHZX10N0lAAAAANWabC2Ef2i04cuIHgM6RABWO0XucEVfzbXLbRQzeUWSAAAAAQAAABIAAAAAAAAAAGzc45PZhFi+WJi+iM5VYf2GjGsX9O4g/z2fXb23EqZ3AAAAAQAAAAAAAAACAAAAAAAAAAAAAAAAbNzjk9mEWL5YmL6IzlVh/YaMaxf07iD/PZ9dvbcSpnd6PkWC/n4Cqy3/keTGKWNM11ii88mLgswGQx2V9dDdJQAAAADVmmwthH9otOHLiB4DOkQAVjtF7nBFX821y20UM3lFkgAAAAEAAAASAAAAAAAAAABs3OOT2YRYvliYvojOVWH9hoxrF/TuIP89n129txKmdwAAAAAAAAABAAAAAAAAAAEAAAAH1ZpsLYR/aLThy4geAzpEAFY7Re5wRV/NtcttFDN5RZIAAAABAAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABQAAAABAArsDgAAAAAAAAC0AAAAAABYgKQAAAABtxKmdwAAAEAn7jZMpT5swp1DJvZxF6/eYhalxizj0+CRQO0qFI7ygrENAX1OqeD15Exk/Da6gZI8kZtJwKjsf8AmEH0fI3ME",
+      "resultXdr": "AAAAAABM50gAAAAAAAAAAQAAAAAAAAAYAAAAACn8jU7/O/U/pZSe5sp/2aTLlbajq1iXREiVegnq809lAAAAAA=="
+    },
+    {
+      "label": "Write durable digest",
+      "hash": "8ea49c6f9eae714669ee2bbaecdd191bc1e68a0e998f13156141d2ea74b21be2",
+      "status": "SUCCESS",
+      "ledger": 5365233,
+      "envelopeXdr": "AAAAAgAAAABs3OOT2YRYvliYvojOVWH9hoxrF/TuIP89n129txKmdwA9KZIAUd3YAAAAAwAAAAEAAAAAAAAAAAAAAABq3LfNAAAAAAAAAAEAAAAAAAAAGAAAAAAAAAABu6uXQDwRp4iOPwIaeOS/n1paC/Nky3kcCyVH8EeX8cYAAAADcHV0AAAAAAEAAAANAAAAIGYlO+tkvlbO867tkPwt9vYxpTBKgscJTLPByyZwQVlAAAAAAQAAAAAAAAAAAAAAAburl0A8EaeIjj8CGnjkv59aWgvzZMt5HAslR/BHl/HGAAAAA3B1dAAAAAABAAAADQAAACBmJTvrZL5WzvOu7ZD8Lfb2MaUwSoLHCUyzwcsmcEFZQAAAAAAAAAABAAAAAAAAAAIAAAAGAAAAAburl0A8EaeIjj8CGnjkv59aWgvzZMt5HAslR/BHl/HGAAAAFAAAAAEAAAAH1ZpsLYR/aLThy4geAzpEAFY7Re5wRV/NtcttFDN5RZIAAAABAAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABAAAAABAAAAAQAAAA8AAAAGUmVjb3JkAAAAAAABAAbyRwAAAAAAAAB8AAAAAAA9AoIAAAABtxKmdwAAAECPamSAcZocAr++FU2f6b+Co01qYkgAbUYnIE4maPeMxyO1mz35yWTYKv7pEcWYi01aXqSmUxpeIMtOkjOFa+kA",
+      "resultXdr": "AAAAAAA0/wkAAAAAAAAAAQAAAAAAAAAYAAAAAMu8SHUN67hTUJOz3q+IrH9M/4dCVXaljeK6x1Ss20YWAAAAAA=="
+    },
+    {
+      "label": "Write temporary hint",
+      "hash": "c12f8ba16b1a584938f06b7458463eaf8009149d475e697d83dbab47d4ed001f",
+      "status": "SUCCESS",
+      "ledger": 5365234,
+      "envelopeXdr": "AAAAAgAAAABs3OOT2YRYvliYvojOVWH9hoxrF/TuIP89n129txKmdwAAeRIAUd3YAAAABAAAAAEAAAAAAAAAAAAAAABq3LfRAAAAAAAAAAEAAAAAAAAAGAAAAAAAAAABu6uXQDwRp4iOPwIaeOS/n1paC/Nky3kcCyVH8EeX8cYAAAAEaGludAAAAAEAAAANAAAAIAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAAAAAQAAAAAAAAAAAAAAAburl0A8EaeIjj8CGnjkv59aWgvzZMt5HAslR/BHl/HGAAAABGhpbnQAAAABAAAADQAAACABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQAAAAAAAAABAAAAAAAAAAIAAAAGAAAAAburl0A8EaeIjj8CGnjkv59aWgvzZMt5HAslR/BHl/HGAAAAFAAAAAEAAAAH1ZpsLYR/aLThy4geAzpEAFY7Re5wRV/NtcttFDN5RZIAAAABAAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABAAAAABAAAAAQAAAA8AAAAESGludAAAAAAABumvAAAAAAAAAHgAAAAAAABSAgAAAAG3EqZ3AAAAQFXxmRQMFiUWDx7nX14J2MgoQO0LJlEiaXWEn0Xmx0zthkErbuRsseC3IL8GVvypLQ8tkjTwYW+TYGOuthpkywM=",
+      "resultXdr": "AAAAAAAAOQgAAAAAAAAAAQAAAAAAAAAYAAAAAMu8SHUN67hTUJOz3q+IrH9M/4dCVXaljeK6x1Ss20YWAAAAAA=="
+    },
+    {
+      "label": "Extend instance and durable record",
+      "hash": "66d1e58268d4f108323b6a36ffe4fc482e92809ec121ccfec367c518c46143cc",
+      "status": "SUCCESS",
+      "ledger": 5365235,
+      "envelopeXdr": "AAAAAgAAAABs3OOT2YRYvliYvojOVWH9hoxrF/TuIP89n129txKmdwOHCosAUd3YAAAABQAAAAEAAAAAAAAAAAAAAABq3LfYAAAAAAAAAAEAAAAAAAAAGAAAAAAAAAABu6uXQDwRp4iOPwIaeOS/n1paC/Nky3kcCyVH8EeX8cYAAAAIbWFpbnRhaW4AAAABAAAAAwAB/44AAAAAAAAAAQAAAAAAAAADAAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABAAAAABAAAAAQAAAA8AAAAGUmVjb3JkAAAAAAABAAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABQAAAABAAAAB9WabC2Ef2i04cuIHgM6RABWO0XucEVfzbXLbRQzeUWSAAAAAAAGyZQAAAAAAAAAAAAAAAADhuN7AAAAAbcSpncAAABAZj6aE6dWeL/E8rhvymwS4uaIgMaDoa6/JCKEd8mZj7FcpUPaUeuMLZX5Ji6ma5ayAnYB7tZwpXDMnyT9WmjzDw==",
+      "resultXdr": "AAAAAAMRI90AAAAAAAAAAQAAAAAAAAAYAAAAAMu8SHUN67hTUJOz3q+IrH9M/4dCVXaljeK6x1Ss20YWAAAAAA=="
+    }
+  ],
+  "wasmHash": "d59a6c2d847f68b4e1cb881e033a4400563b45ee70455fcdb5cb6d1433794592",
+  "contractId": "CC52XF2AHQI2PCEOH4BBU6HEX6PVUWQL6NSMW6I4BMSUP4CHS7Y4MMXE",
+  "digest": "66253beb64be56cef3aeed90fc2df6f631a5304a82c7094cb3c1cb2670415940",
+  "put": true,
+  "hint": true,
+  "manifest": [
+    {
+      "id": "wasm",
+      "label": "Specimen executable",
+      "kind": "code",
+      "keyXdr": "AAAAB9WabC2Ef2i04cuIHgM6RABWO0XucEVfzbXLbRQzeUWS",
+      "dependsOn": []
+    },
+    {
+      "id": "instance",
+      "label": "Owner configuration",
+      "kind": "instance",
+      "keyXdr": "AAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABQAAAAB",
+      "dependsOn": [
+        "wasm"
+      ]
+    },
+    {
+      "id": "record",
+      "label": "Durable digest record",
+      "kind": "persistent",
+      "keyXdr": "AAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABAAAAABAAAAAQAAAA8AAAAGUmVjb3JkAAAAAAAB",
+      "dependsOn": [
+        "instance"
+      ]
+    },
+    {
+      "id": "hint",
+      "label": "Temporary session hint",
+      "kind": "temporary",
+      "keyXdr": "AAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABAAAAABAAAAAQAAAA8AAAAESGludAAAAAA=",
+      "dependsOn": [
+        "instance"
+      ]
+    }
+  ],
+  "before": {
+    "schemaVersion": 1,
+    "network": "testnet",
+    "currentLedger": 5365234,
+    "observedLedger": 5365234,
+    "horizonLedgers": 1000,
+    "maxAgeLedgers": 20,
+    "entries": [
+      {
+        "id": "wasm",
+        "label": "Specimen executable",
+        "kind": "code",
+        "keyXdr": "AAAAB9WabC2Ef2i04cuIHgM6RABWO0XucEVfzbXLbRQzeUWS",
+        "dependsOn": [],
+        "state": "live",
+        "liveUntilLedger": 5486190,
+        "evidenceRef": "getLedgerEntries:5365234"
+      },
+      {
+        "id": "instance",
+        "label": "Owner configuration",
+        "kind": "instance",
+        "keyXdr": "AAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABQAAAAB",
+        "dependsOn": [
+          "wasm"
+        ],
+        "state": "live",
+        "liveUntilLedger": 5486191,
+        "evidenceRef": "getLedgerEntries:5365234"
+      },
+      {
+        "id": "record",
+        "label": "Durable digest record",
+        "kind": "persistent",
+        "keyXdr": "AAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABAAAAABAAAAAQAAAA8AAAAGUmVjb3JkAAAAAAAB",
+        "dependsOn": [
+          "instance"
+        ],
+        "state": "live",
+        "liveUntilLedger": 5486192,
+        "evidenceRef": "getLedgerEntries:5365234"
+      },
+      {
+        "id": "hint",
+        "label": "Temporary session hint",
+        "kind": "temporary",
+        "keyXdr": "AAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABAAAAABAAAAAQAAAA8AAAAESGludAAAAAA=",
+        "dependsOn": [
+          "instance"
+        ],
+        "state": "live",
+        "liveUntilLedger": 5365953,
+        "evidenceRef": "getLedgerEntries:5365234"
+      }
+    ],
+    "rpcObservation": {
+      "endpoint": "https://soroban-testnet.stellar.org",
+      "latestLedger": 5365234,
+      "capturedAt": "2026-10-24T13:49:20.204Z",
+      "raw": {
+        "entries": [
+          {
+            "key": "AAAAB9WabC2Ef2i04cuIHgM6RABWO0XucEVfzbXLbRQzeUWS",
+            "xdr": "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",
+            "lastModifiedLedgerSeq": 5365231,
+            "liveUntilLedgerSeq": 5486190,
+            "extXdr": "AAAAAA=="
+          },
+          {
+            "key": "AAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABQAAAAB",
+            "xdr": "AAAABgAAAAAAAAABu6uXQDwRp4iOPwIaeOS/n1paC/Nky3kcCyVH8EeX8cYAAAAUAAAAAQAAABMAAAAA1ZpsLYR/aLThy4geAzpEAFY7Re5wRV/NtcttFDN5RZIAAAABAAAAAQAAABAAAAABAAAAAQAAAA8AAAAFT3duZXIAAAAAAAASAAAAAAAAAABs3OOT2YRYvliYvojOVWH9hoxrF/TuIP89n129txKmdw==",
+            "lastModifiedLedgerSeq": 5365232,
+            "liveUntilLedgerSeq": 5486191,
+            "extXdr": "AAAAAA=="
+          },
+          {
+            "key": "AAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABAAAAABAAAAAQAAAA8AAAAGUmVjb3JkAAAAAAAB",
+            "xdr": "AAAABgAAAAAAAAABu6uXQDwRp4iOPwIaeOS/n1paC/Nky3kcCyVH8EeX8cYAAAAQAAAAAQAAAAEAAAAPAAAABlJlY29yZAAAAAAAAQAAAA0AAAAgZiU762S+Vs7zru2Q/C329jGlMEqCxwlMs8HLJnBBWUA=",
+            "lastModifiedLedgerSeq": 5365233,
+            "liveUntilLedgerSeq": 5486192,
+            "extXdr": "AAAAAA=="
+          },
+          {
+            "key": "AAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABAAAAABAAAAAQAAAA8AAAAESGludAAAAAA=",
+            "xdr": "AAAABgAAAAAAAAABu6uXQDwRp4iOPwIaeOS/n1paC/Nky3kcCyVH8EeX8cYAAAAQAAAAAQAAAAEAAAAPAAAABEhpbnQAAAAAAAAADQAAACABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQ==",
+            "lastModifiedLedgerSeq": 5365234,
+            "liveUntilLedgerSeq": 5365953,
+            "extXdr": "AAAAAA=="
+          }
+        ],
+        "latestLedger": 5365234
+      }
+    }
+  },
+  "maintained": true,
+  "after": {
+    "schemaVersion": 1,
+    "network": "testnet",
+    "currentLedger": 5365235,
+    "observedLedger": 5365235,
+    "horizonLedgers": 1000,
+    "maxAgeLedgers": 20,
+    "entries": [
+      {
+        "id": "wasm",
+        "label": "Specimen executable",
+        "kind": "code",
+        "keyXdr": "AAAAB9WabC2Ef2i04cuIHgM6RABWO0XucEVfzbXLbRQzeUWS",
+        "dependsOn": [],
+        "state": "live",
+        "liveUntilLedger": 5496193,
+        "evidenceRef": "getLedgerEntries:5365235"
+      },
+      {
+        "id": "instance",
+        "label": "Owner configuration",
+        "kind": "instance",
+        "keyXdr": "AAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABQAAAAB",
+        "dependsOn": [
+          "wasm"
+        ],
+        "state": "live",
+        "liveUntilLedger": 5496193,
+        "evidenceRef": "getLedgerEntries:5365235"
+      },
+      {
+        "id": "record",
+        "label": "Durable digest record",
+        "kind": "persistent",
+        "keyXdr": "AAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABAAAAABAAAAAQAAAA8AAAAGUmVjb3JkAAAAAAAB",
+        "dependsOn": [
+          "instance"
+        ],
+        "state": "live",
+        "liveUntilLedger": 5496193,
+        "evidenceRef": "getLedgerEntries:5365235"
+      },
+      {
+        "id": "hint",
+        "label": "Temporary session hint",
+        "kind": "temporary",
+        "keyXdr": "AAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABAAAAABAAAAAQAAAA8AAAAESGludAAAAAA=",
+        "dependsOn": [
+          "instance"
+        ],
+        "state": "live",
+        "liveUntilLedger": 5365953,
+        "evidenceRef": "getLedgerEntries:5365235"
+      }
+    ],
+    "rpcObservation": {
+      "endpoint": "https://soroban-testnet.stellar.org",
+      "latestLedger": 5365235,
+      "capturedAt": "2026-10-24T13:49:24.423Z",
+      "raw": {
+        "entries": [
+          {
+            "key": "AAAAB9WabC2Ef2i04cuIHgM6RABWO0XucEVfzbXLbRQzeUWS",
+            "xdr": "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",
+            "lastModifiedLedgerSeq": 5365231,
+            "liveUntilLedgerSeq": 5496193,
+            "extXdr": "AAAAAA=="
+          },
+          {
+            "key": "AAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABQAAAAB",
+            "xdr": "AAAABgAAAAAAAAABu6uXQDwRp4iOPwIaeOS/n1paC/Nky3kcCyVH8EeX8cYAAAAUAAAAAQAAABMAAAAA1ZpsLYR/aLThy4geAzpEAFY7Re5wRV/NtcttFDN5RZIAAAABAAAAAQAAABAAAAABAAAAAQAAAA8AAAAFT3duZXIAAAAAAAASAAAAAAAAAABs3OOT2YRYvliYvojOVWH9hoxrF/TuIP89n129txKmdw==",
+            "lastModifiedLedgerSeq": 5365232,
+            "liveUntilLedgerSeq": 5496193,
+            "extXdr": "AAAAAA=="
+          },
+          {
+            "key": "AAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABAAAAABAAAAAQAAAA8AAAAGUmVjb3JkAAAAAAAB",
+            "xdr": "AAAABgAAAAAAAAABu6uXQDwRp4iOPwIaeOS/n1paC/Nky3kcCyVH8EeX8cYAAAAQAAAAAQAAAAEAAAAPAAAABlJlY29yZAAAAAAAAQAAAA0AAAAgZiU762S+Vs7zru2Q/C329jGlMEqCxwlMs8HLJnBBWUA=",
+            "lastModifiedLedgerSeq": 5365233,
+            "liveUntilLedgerSeq": 5496193,
+            "extXdr": "AAAAAA=="
+          },
+          {
+            "key": "AAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABAAAAABAAAAAQAAAA8AAAAESGludAAAAAA=",
+            "xdr": "AAAABgAAAAAAAAABu6uXQDwRp4iOPwIaeOS/n1paC/Nky3kcCyVH8EeX8cYAAAAQAAAAAQAAAAEAAAAPAAAABEhpbnQAAAAAAAAADQAAACABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQ==",
+            "lastModifiedLedgerSeq": 5365234,
+            "liveUntilLedgerSeq": 5365953,
+            "extXdr": "AAAAAA=="
+          }
+        ],
+        "latestLedger": 5365235
+      }
+    }
+  },
+  "assessment": {
+    "schemaVersion": 1,
+    "network": "testnet",
+    "currentLedger": 5365235,
+    "observedLedger": 5365235,
+    "stale": false,
+    "inventoryHash": "ce2e65e2492baea0af6f3a1cae8d854aa61890d90c8cb74cc59ff26a13102f59",
+    "summary": {
+      "entries": 4,
+      "blocked": 0,
+      "attention": 1,
+      "ready": 3
+    },
+    "steps": [
+      {
+        "id": "wasm",
+        "label": "Specimen executable",
+        "kind": "code",
+        "state": "live",
+        "action": "OBSERVE",
+        "severity": "ready",
+        "reason": "Observed lifetime covers the selected ledger horizon",
+        "blockedBy": [],
+        "dependsOn": [],
+        "remainingLedgers": 130958,
+        "evidenceRef": "getLedgerEntries:5365235"
+      },
+      {
+        "id": "instance",
+        "label": "Owner configuration",
+        "kind": "instance",
+        "state": "live",
+        "action": "OBSERVE",
+        "severity": "ready",
+        "reason": "Observed lifetime covers the selected ledger horizon",
+        "blockedBy": [],
+        "dependsOn": [
+          "wasm"
+        ],
+        "remainingLedgers": 130958,
+        "evidenceRef": "getLedgerEntries:5365235"
+      },
+      {
+        "id": "record",
+        "label": "Durable digest record",
+        "kind": "persistent",
+        "state": "live",
+        "action": "OBSERVE",
+        "severity": "ready",
+        "reason": "Observed lifetime covers the selected ledger horizon",
+        "blockedBy": [],
+        "dependsOn": [
+          "instance"
+        ],
+        "remainingLedgers": 130958,
+        "evidenceRef": "getLedgerEntries:5365235"
+      },
+      {
+        "id": "hint",
+        "label": "Temporary session hint",
+        "kind": "temporary",
+        "state": "live",
+        "action": "EXTEND_TTL",
+        "severity": "attention",
+        "reason": "Live entry expires inside the selected ledger horizon; simulate an extension",
+        "blockedBy": [],
+        "dependsOn": [
+          "instance"
+        ],
+        "remainingLedgers": 718,
+        "evidenceRef": "getLedgerEntries:5365235"
+      }
+    ],
+    "notice": "Readiness assessment only. No keys held, no transactions built or submitted. Imported archival evidence is not independently authenticated."
+  },
+  "verifiedAt": "2026-10-24T13:49:24.425Z",
+  "scope": "Live testnet TTL extension and inventory only. No expired entry was restored on testnet; expiration behavior is covered separately by host tests and synthetic training."
+}

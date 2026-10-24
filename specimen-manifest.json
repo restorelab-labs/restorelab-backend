@@ -1,0 +1,38 @@
+{
+  "entries": [
+    {
+      "id": "wasm",
+      "label": "Specimen executable",
+      "kind": "code",
+      "keyXdr": "AAAAB9WabC2Ef2i04cuIHgM6RABWO0XucEVfzbXLbRQzeUWS",
+      "dependsOn": []
+    },
+    {
+      "id": "instance",
+      "label": "Owner configuration",
+      "kind": "instance",
+      "keyXdr": "AAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABQAAAAB",
+      "dependsOn": [
+        "wasm"
+      ]
+    },
+    {
+      "id": "record",
+      "label": "Durable digest record",
+      "kind": "persistent",
+      "keyXdr": "AAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABAAAAABAAAAAQAAAA8AAAAGUmVjb3JkAAAAAAAB",
+      "dependsOn": [
+        "instance"
+      ]
+    },
+    {
+      "id": "hint",
+      "label": "Temporary session hint",
+      "kind": "temporary",
+      "keyXdr": "AAAABgAAAAG7q5dAPBGniI4/Ahp45L+fWloL82TLeRwLJUfwR5fxxgAAABAAAAABAAAAAQAAAA8AAAAESGludAAAAAA=",
+      "dependsOn": [
+        "instance"
+      ]
+    }
+  ]
+}
